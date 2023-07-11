@@ -1,0 +1,369 @@
+Philosopher 1 is Thinking for 10ms
+ 
+Philosopher 1 was Hungry for 0ms
+
+Philosopher 1 is Eating for 40ms
+ 
+Philosopher 2 is Thinking for 10ms
+ 
+Philosopher 2 was Hungry for 0ms
+
+Philosopher 2 is Eating for 37ms
+ 
+Philosopher 3 is Thinking for 12ms
+ 
+Philosopher 3 was Hungry for 0ms
+
+Philosopher 3 is Eating for 37ms
+ 
+Philosopher 4 is Thinking for 12ms
+ 
+Philosopher 4 was Hungry for 0ms
+
+Philosopher 4 is Eating for 40ms
+ 
+Philosopher 5 is Thinking for 12ms
+ 
+Philosopher 5 was Hungry for 0ms
+
+Philosopher 5 is Eating for 38ms
+ 
+Philosopher 1 is Thinking for 12ms
+ 
+Philosopher 1 was Hungry for 0ms
+
+Philosopher 1 is Eating for 37ms
+ 
+Philosopher 2 is Thinking for 11ms
+ 
+Philosopher 2 was Hungry for 0ms
+
+Philosopher 2 is Eating for 37ms
+ 
+Philosopher 3 is Thinking for 12ms
+ 
+Philosopher 3 was Hungry for 0ms
+
+Philosopher 3 is Eating for 37ms
+ 
+Philosopher 4 is Thinking for 12ms
+ 
+Philosopher 4 was Hungry for 0ms
+
+Philosopher 4 is Eating for 39ms
+ 
+Philosopher 5 is Thinking for 12ms
+ 
+Philosopher 5 was Hungry for 0ms
+
+Philosopher 5 is Eating for 42ms
+ 
+Philosopher 1 is Thinking for 12ms
+ 
+Philosopher 1 was Hungry for 0ms
+
+Philosopher 1 is Eating for 37ms
+ 
+Philosopher 2 is Thinking for 10ms
+ 
+Philosopher 2 was Hungry for 0ms
+
+Philosopher 2 is Eating for 37ms
+ 
+Philosopher 3 is Thinking for 12ms
+ 
+Philosopher 3 was Hungry for 0ms
+
+Philosopher 3 is Eating for 37ms
+ 
+Philosopher 4 is Thinking for 11ms
+ 
+Philosopher 4 was Hungry for 0ms
+
+Philosopher 4 is Eating for 38ms
+ 
+Philosopher 5 is Thinking for 12ms
+ 
+Philosopher 5 was Hungry for 0ms
+
+Philosopher 5 is Eating for 38ms
+ 
+Philosopher 1 is Thinking for 10ms
+ 
+Philosopher 1 was Hungry for 0ms
+
+Philosopher 1 is Eating for 39ms
+ 
+Philosopher 2 is Thinking for 10ms
+ 
+Philosopher 2 was Hungry for 0ms
+
+Philosopher 2 is Eating for 38ms
+ 
+Philosopher 3 is Thinking for 12ms
+ 
+Philosopher 3 was Hungry for 0ms
+
+Philosopher 3 is Eating for 37ms
+ 
+Philosopher 4 is Thinking for 12ms
+ 
+Philosopher 4 was Hungry for 0ms
+
+Philosopher 4 is Eating for 37ms
+ 
+Philosopher 5 is Thinking for 11ms
+ 
+Philosopher 5 was Hungry for 0ms
+
+Philosopher 5 is Eating for 39ms
+ 
+Philosopher 1 is Thinking for 12ms
+ 
+Philosopher 1 was Hungry for 0ms
+
+Philosopher 1 is Eating for 40ms
+ 
+Philosopher 2 is Thinking for 12ms
+ 
+Philosopher 2 was Hungry for 0ms
+
+Philosopher 2 is Eating for 41ms
+ 
+Philosopher 3 is Thinking for 12ms
+ 
+Philosopher 3 was Hungry for 0ms
+
+Philosopher 3 is Eating for 37ms
+ 
+Philosopher 4 is Thinking for 11ms
+ 
+Philosopher 4 was Hungry for 0ms
+
+Philosopher 4 is Eating for 37ms
+ 
+Philosopher 5 is Thinking for 12ms
+ 
+Philosopher 5 was Hungry for 0ms
+
+Philosopher 5 is Eating for 37ms
+ 
+Philosopher 1 is Thinking for 12ms
+ 
+Philosopher 1 was Hungry for 0ms
+
+Philosopher 1 is Eating for 38ms
+ 
+Philosopher 2 is Thinking for 11ms
+ 
+Philosopher 2 was Hungry for 0ms
+
+Philosopher 2 is Eating for 37ms
+ 
+Philosopher 3 is Thinking for 12ms
+ 
+Philosopher 3 was Hungry for 0ms
+
+Philosopher 3 is Eating for 40ms
+ 
+Philosopher 4 is Thinking for 12ms
+ 
+Philosopher 4 was Hungry for 0ms
+
+Philosopher 4 is Eating for 38ms
+ 
+Philosopher 5 is Thinking for 12ms
+ 
+Philosopher 5 was Hungry for 0ms
+
+Philosopher 5 is Eating for 37ms
+ 
+Philosopher 1 is Thinking for 12ms
+ 
+Philosopher 1 was Hungry for 0ms
+
+Philosopher 1 is Eating for 37ms
+ 
+Philosopher 2 is Thinking for 12ms
+ 
+Philosopher 2 was Hungry for 0ms
+
+Philosopher 2 is Eating for 37ms
+ 
+Philosopher 3 is Thinking for 10ms
+ 
+Philosopher 3 was Hungry for 0ms
+
+Philosopher 3 is Eating for 42ms
+ 
+Philosopher 4 is Thinking for 12ms
+ 
+Philosopher 4 was Hungry for 0ms
+
+Philosopher 4 is Eating for 42ms
+ 
+Philosopher 5 is Thinking for 12ms
+ 
+Philosopher 5 was Hungry for 0ms
+
+Philosopher 5 is Eating for 40ms
+ 
+Philosopher 1 is Thinking for 12ms
+ 
+Philosopher 1 was Hungry for 0ms
+
+Philosopher 1 is Eating for 37ms
+ 
+Philosopher 2 is Thinking for 10ms
+ 
+Philosopher 2 was Hungry for 0ms
+
+Philosopher 2 is Eating for 41ms
+ 
+Philosopher 3 is Thinking for 12ms
+ 
+Philosopher 3 was Hungry for 0ms
+
+Philosopher 3 is Eating for 37ms
+ 
+Philosopher 4 is Thinking for 12ms
+ 
+Philosopher 4 was Hungry for 0ms
+
+Philosopher 4 is Eating for 40ms
+ 
+Philosopher 5 is Thinking for 12ms
+ 
+Philosopher 5 was Hungry for 0ms
+
+Philosopher 5 is Eating for 37ms
+ 
+Philosopher 1 is Thinking for 12ms
+ 
+Philosopher 1 was Hungry for 0ms
+
+Philosopher 1 is Eating for 42ms
+ 
+Philosopher 2 is Thinking for 12ms
+ 
+Philosopher 2 was Hungry for 0ms
+
+Philosopher 2 is Eating for 42ms
+ 
+Philosopher 3 is Thinking for 12ms
+ 
+Philosopher 3 was Hungry for 0ms
+
+Philosopher 3 is Eating for 37ms
+ 
+Philosopher 4 is Thinking for 12ms
+ 
+Philosopher 4 was Hungry for 0ms
+
+Philosopher 4 is Eating for 37ms
+ 
+Philosopher 5 is Thinking for 12ms
+ 
+Philosopher 5 was Hungry for 0ms
+
+Philosopher 5 is Eating for 40ms
+ 
+Philosopher 1 is Thinking for 12ms
+ 
+Philosopher 1 was Hungry for 0ms
+
+Philosopher 1 is Eating for 37ms
+ 
+Philosopher 2 is Thinking for 12ms
+ 
+Philosopher 2 was Hungry for 0ms
+
+Philosopher 2 is Eating for 37ms
+ 
+Philosopher 3 is Thinking for 10ms
+ 
+Philosopher 3 was Hungry for 0ms
+
+Philosopher 3 is Eating for 37ms
+ 
+Philosopher 4 is Thinking for 10ms
+ 
+Philosopher 4 was Hungry for 0ms
+
+Philosopher 4 is Eating for 37ms
+ 
+Philosopher 5 is Thinking for 12ms
+ 
+Philosopher 5 was Hungry for 0ms
+
+Philosopher 5 is Eating for 38ms
+ 
+Philosopher 1 is Thinking for 12ms
+ 
+Philosopher 1 was Hungry for 0ms
+
+Philosopher 1 is Eating for 37ms
+ 
+Philosopher 2 is Thinking for 12ms
+ 
+Philosopher 2 was Hungry for 0ms
+
+Philosopher 2 is Eating for 40ms
+ 
+Philosopher 3 is Thinking for 12ms
+ 
+Philosopher 3 was Hungry for 0ms
+
+Philosopher 3 is Eating for 37ms
+ 
+Philosopher 4 is Thinking for 12ms
+ 
+Philosopher 4 was Hungry for 0ms
+
+Philosopher 4 is Eating for 37ms
+ 
+Philosopher 5 is Thinking for 12ms
+ 
+Philosopher 5 was Hungry for 0ms
+
+Philosopher 5 is Eating for 37ms
+ 
+Philosopher 1 is Thinking for 12ms
+ 
+Philosopher 1 was Hungry for 0ms
+
+Philosopher 1 is Eating for 37ms
+ 
+Philosopher 2 is Thinking for 12ms
+ 
+Philosopher 2 was Hungry for 0ms
+
+Philosopher 2 is Eating for 37ms
+ 
+Philosopher 3 is Thinking for 12ms
+ 
+Philosopher 3 was Hungry for 0ms
+
+Philosopher 3 is Eating for 37ms
+ 
+Philosopher 4 is Thinking for 12ms
+ 
+Philosopher 4 was Hungry for 0ms
+
+Philosopher 4 is Eating for 38ms
+ 
+Philosopher 5 is Thinking for 12ms
+ 
+Philosopher 5 was Hungry for 0ms
+
+Philosopher 5 is Eating for 37ms
+ 
+Philosopher 1 is Thinking for 12ms
+ 
+Philosopher 1 was Hungry for 0ms
+
+Philosopher 1 is Eating for 37ms
+ 
+0ms is the average time being Hungry
+141ms is the average time spent Thinking
+465ms is the average time spent Eating
